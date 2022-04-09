@@ -4,7 +4,7 @@
 
 <!-- Descrição -->
 
-<p align="center">Site com o foco na "RESPONSIVIDADE", tanto para celulares, tablets, telas pequenas e grandes de computadores. Para fazer esse teste, basta aperta a tecla F12 e testar os tamanhos de tela disponível .</p>
+<p align="center">Site com o foco na "RESPONSIVIDADE", tanto para celulares, tablets, telas pequenas e grandes de computadores.<br> Para fazer esse teste, basta aperta a tecla F12 e testar os tamanhos de tela disponível .</p>
 
 <!-- Súmario -->
 
